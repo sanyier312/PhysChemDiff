@@ -1,6 +1,6 @@
-# PhysChemDiff: Physicochemical Property-Guided Protein Generation Using Latent Diffusion Models
+# TpaDiff:  Text-Physicochemical property Aligned Diffusion for Conditioned Protein Generation
 
-This repository is the official implementation of [PhysChemDiff: Physicochemical Property-Guided Protein Generation Using Latent Diffusion Models](https://huggingface.co/sanyier312/PhysChemDiff/tree/main).
+This repository is the official implementation of [TpaDiff:  Text-Physicochemical property Aligned Diffusion for Conditioned Protein Generation](https://huggingface.co/sanyier312/PhysChemDiff/tree/main).
 
 ![Introduction](imgs/intro.png)
 
