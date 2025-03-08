@@ -1,6 +1,6 @@
-# TpaDiff:  Text-Physicochemical property Aligned Diffusion for Conditioned Protein Generation
+# CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation
 
-This repository is the official implementation of [TpaDiff:  Text-Physicochemical property Aligned Diffusion for Conditioned Protein Generation](https://huggingface.co/sanyier312/PhysChemDiff/tree/main).
+This repository is the official implementation of [CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation](https://huggingface.co/sanyier312/PhysChemDiff/tree/main).
 
 ![Introduction](imgs/intro.png)
 
